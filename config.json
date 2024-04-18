@@ -17,14 +17,14 @@
 		"ignoreCommand": []
 	},
 	"adminBot": [
-		"100092377898995"
+		"100028208255363"
 	],
 	"whiteListMode": {
 		"enable": false,
 		"whiteListIds": [],
 		"notes": "if you enable this feature, only the ids in the whiteListIds section can use the bot"
 	},
-	"nickNameBot": "[ * ] • A N Y A",
+	"nickNameBot": "[ + ] Ålfred",
 	"prefix": "*",
 	"database": {
 		"type": "sqlite",
@@ -36,7 +36,7 @@
 	"timeZone": "Asia/Kathmandu",
 	"credentials": {
 		"gmailAccount": {
-			"email": "botrandom68@gmail.com",
+			"email": "dukemarshall508@gmail.com",
 			"clientId": "407168939339-ni7uvp8054bpnht4280n6d3no4qrf3mv.apps.googleusercontent.com",
 			"clientSecret": "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",
 			"refreshToken": "1//041Aj0DBzlyxuCgYIARAAGAQSNwF-L9IrSJFfXahDmIC5CaNNthQwg0yT8ZrFaUUofZBR13qsh-nNBLi7_4LZMlZ00F8AiWo6Moo",
