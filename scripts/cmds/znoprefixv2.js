@@ -2,7 +2,7 @@ module.exports = {
     config: {
         name: "no prefix",
         version: "1.0",
-        author: "Your Name",
+        author: "Alfred",
         countDown: 5,
         role: 0,
         shortDescription: "ignore this command",
@@ -15,6 +15,6 @@ onChat: async function({
     message,
     getLang
 }) {
-    if (event.body && event.body.toLowerCase() == "khilay?") return message.reply("My Lord Im Still Here, Ask Me Anything ✨");
+    if (event.body && event.body.toLowerCase() == "khilay?") return message.reply("My Alfred Im Still Here, Ask Me Anything ✨");
 }
 };
