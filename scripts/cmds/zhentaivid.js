@@ -5,7 +5,7 @@ module.exports = {
 		version: "1.0",
 		author: "MILAN",
 		countDown: 5,
-		role: 1,
+		role: 2,
 		shortDescription: "hentai videos",
 		longDescription: "get hentai videos",
 		category: "adult",
