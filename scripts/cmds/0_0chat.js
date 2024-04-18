@@ -4,18 +4,18 @@ module.exports = {
 	config: {
 		name: "chat",
 		version: "1.2",
-		author: "Samuel",
+		author: "alfred",
 		countDown: 5,
 		role: 0,
-		shortDescription: "Sammy",
+		shortDescription: "Alfred",
 		longDescription: {
 			vi: "Chat với simsimi",
-			en: "Chat with Sammy",
+			en: "Chat with A;fred",
 		},
 		category: "funny",
 		guide: {
 			vi: "{pn} [on | off]: bật/tắt simsimi\rd>: chat nhanh với simsimi\i",
-			en: "{pn} <word>: chat with Sammy\ with a simple: hi",
+			en: "{pn} <word>: chat with Alfred\ with a simple: hi",
 		},
 	},
 
@@ -23,13 +23,13 @@ module.exports = {
 		vi: {
 			turnedOn: "Bật simsimi thành công!",
 			turnedOff: "Tắt simsimi thành công!",
-			chatting: "Đang chat với Sammy...",
-			error: "Sammy đang bận, bạn hãy thử lại sau",
+			chatting: "Đang chat với Alfred...",
+			error: "Alfred đang bận, bạn hãy thử lại sau",
 		},
 		en: {
 			turnedOn: "Turned on Chat successfully!",
 			turnedOff: "Turned off Chat successfully!",
-			chatting: "Already Chatting with Sammy... :) ",
+			chatting: "Already Chatting with Alfred... :) ",
 			error: "What?🙂",
 		},
 	},
