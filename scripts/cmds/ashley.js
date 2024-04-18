@@ -2,7 +2,7 @@ const axios = require('axios');
 
 module.exports = {
 	config: {
-		name: "ashley",
+		name: "alfred",
 		aliases: [],
 		author: "kshitiz",  
 		version: "2.0",
@@ -33,7 +33,7 @@ module.exports = {
 			}
 
 			if (!message) {
-				return api.sendMessage('Please provide a message/question.\n\nUsage: ashley {message}', threadID);
+				return api.sendMessage('Please provide a message/question.\n\nUsage: alfred {message}', threadID);
 			}
 
 			const API_ENDPOINT = `https://cai.aliestercrowleymv.repl.co/api?char=zG7RNkQutpO9-uo8Q0A7CQKt_BHiDsJGBVu7Y3gmZGc&prompt=${userFirstName} to you: ${encodeURIComponent(message)}`;
