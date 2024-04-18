@@ -1,15 +1,15 @@
 const axios = require("axios")
 module.exports = {
 	config: {
-		name: 'anya',
+		name: 'alfred',
 		version: '1.2',
-		author: 'Xemon',
+		author: 'Alfred',
 		countDown: 15,
 		role: 0,
-		shortDescription: 'Anya AI',
+		shortDescription: 'Alfred AI',
 		longDescription: {
 			vi: 'Chat với simsimi',
-			en: 'Chat with Anya'
+			en: 'Chat with Alfred'
 		},
 		category: 'funny',
 		guide: {
@@ -32,7 +32,7 @@ module.exports = {
 		en: {
 			turnedOn: '✅ | Turned on Anya successfully!',
 			turnedOff: '✅ | Turned off Anya successfully!',
-			chatting: 'Already Chatting with hina...',
+			chatting: 'Already Chatting with Alfred...',
 			error: 'What?🙂'
 		}
 	},
