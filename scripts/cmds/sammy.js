@@ -15,20 +15,20 @@ const { openAIUsing, openAIHistory } = global.temp;
 
 module.exports = {
 	config: {
-		name: "sammy",
-		aliases: ["Sæmmy", "Sam", "sam", "ai", "Ai"],
+		name: "amelia",
+		aliases: ["Amelia", "ame"],
 		usePrefix: false,
 		version: "1.2",
 		author: "NTKhang",
 		countDown: 1,
 		role: 0,
 		shortDescription: {
-			vi: "sammy chat",
-			en: "sammy chat"
+			vi: "amelia chat",
+			en: "amelia chat"
 		},
 		longDescription: {
-			vi: "sammy chat",
-			en: "sammy chat"
+			vi: "amelia chat",
+			en: "amelia chat"
 		},
 		category: "box chat",
 		guide: {
@@ -58,7 +58,7 @@ module.exports = {
 			processingRequest: "╔════ஜ۩۞۩ஜ═══╗\n\nProcessing your request, \this process may take a few minutes,\n please wait\n\n╚════ஜ۩۞۩ஜ═══╝",
 			invalidContent: "╔════ஜ۩۞۩ஜ═══╗\n\nPlease enter the content you want to chat\n\n╚════ஜ۩۞۩ஜ═══╝",
 			error: "╔════ஜ۩۞۩ஜ═══╗\n\nAn error has occurred\n%1\n\n╚════ஜ۩۞۩ஜ═══╝",
-			clearHistory: "╔════ஜ۩۞۩ஜ═══╗\n\nYour chat history with\n Sammy has been deleted\n\n╚════ஜ۩۞۩ஜ═══╝"
+			clearHistory: "╔════ஜ۩۞۩ஜ═══╗\n\nYour chat history with\n amelia has been deleted\n\n╚════ஜ۩۞۩ஜ═══╝"
 		}
 	},
 
